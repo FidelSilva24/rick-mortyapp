@@ -41,20 +41,21 @@ The application follows a layered architecture:
 
 ---
 
-## 🏗️ Project Structure
+## 📁 Project Structure
+
+```text
 src/
 ├─ views/
-│ └─ CharactersView.vue
+│  └─ CharactersView.vue
 ├─ stores/
-│ └─ characters.js
+│  └─ characters.js
 ├─ services/
-│ └─ charactersService.js
+│  └─ charactersService.js
 ├─ router/
-│ └─ index.js
+│  └─ index.js
 ├─ assets/
 └─ main.js
-
-
+```
 ---
 
 ## 🔄 Data Flow
